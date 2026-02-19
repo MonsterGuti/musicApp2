@@ -5,29 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="006e9e28-f94b-4b10-8cc6-0d1b51c96cd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/static/css/catalog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/css/create.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/css/details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/css/typography.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/images/BrandiCarlile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/images/Lorde.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/images/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/images/headphones.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/images/musicIcons.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/static/images/pinkFloyd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/album-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/album-delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/album-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/album-edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/home-no-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/home-with-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/profile-delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/profile-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicApp2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/musicApp2/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771486889918</updated>
-      <workItem from="1771486891167" duration="683000" />
+      <workItem from="1771486891167" duration="985000" />
     </task>
     <servers />
   </component>
