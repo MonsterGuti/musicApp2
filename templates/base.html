@@ -2,15 +2,14 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8"/>
+  <head>
+    <meta charset="UTF-8" />
     <title>My Music App</title>
     <!-- Static Load -->
-    <link rel="stylesheet" href="{% static 'css/style.css' %}"/>
-</head>
-
-<body>
-<div id="box">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+  </head>
+  <body>
+    <div id="box">
     {% include 'common/nav.html' %}
 
     {% block content %}
@@ -18,6 +17,6 @@
 
     {% include 'common/footer.html' %}
 
-</div>
-</body>
+    </div>
+  </body>
 </html>
